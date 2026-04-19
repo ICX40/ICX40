@@ -1,4 +1,4 @@
-### 👋 I'm [Eyad Kadry] 
+### 👋 I'm Eyad Kadry
 
 Front-End Dev, [19] y/o. I craft clean, responsive UIs, chase bugs until they regret existing, and somehow still enjoy JavaScript (don't ask).
 Focused path: Front-End -> System Design -> Cloud Services.
