@@ -1,32 +1,44 @@
-### 👋 I'm Eyad Kadry
+<h1 align="center">Hi there, I'm Eyad Kadry 👋</h1>
 
-Front-End Dev, [19] y/o. I craft clean, responsive UIs, chase bugs until they regret existing, and somehow still enjoy JavaScript (don't ask).
-Focused path: Front-End -> System Design -> Cloud Services.
+<h3 align="center">Front-End Developer | Crafting clean & responsive UIs</h3>
 
-🔥 Check out my [Portfolio](https://e-k-w.vercel.app/)
-🤝 Open to collaboration with Back-End devs who write real code.
-📧 [eyadwardant123@gmail.com] | 📱 [+201094497558]
+<p align="center">
+  <i>"I chase bugs until they regret existing, and somehow still enjoy JavaScript (don't ask)."</i>
+</p>
 
 ---
 
-### 🧠 Tech Stack
-<p align="left">
+### 👨‍💻 About Me
+
+- 🧑‍🎓 19 y/o developer currently sharpening my skills in **modern front-end architectures**, **API integrations**, and **scalable app structures**.
+- 🚀 **Focused path:** Front-End ➔ System Design ➔ Cloud Services.
+- 🤝 Open to collaboration with Back-End devs who write real code.
+- 🌱 Learning never stops.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,gcp,firebase,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,gcp,firebase,vscode&theme=dark" alt="Eyad's Tech Stack" />
   </a>
 </p>
 
-Currently sharpening my skills in modern front-end architectures, API integrations, and scalable app structures. Learning never stops.
-
 ---
 
-### 📊 GitHub Stats
+### 📫 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ICX40&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICX40&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ICX40&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="60%" />
+  <a href="mailto:eyadwardant123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- استبدل علامة الـ # تحت بلينك البورتفوليو بتاعك الحقيقي -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <!-- استبدل علامة الـ # تحت بلينك حساب لينكد إن بتاعك لو عندك -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
