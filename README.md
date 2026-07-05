@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Mastering+Next.js,+React+%26+GSAP;Crafting+Monster+Level+UIs;Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Mastering+Next.js,+React+%26+GSAP;Crafting+Monster+Level+UIs;Building+Storm+Store" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 </p>
 
 <br/>
-<br/>
+
 ### 🛠️ Tech Arsenal
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,8 +28,6 @@
 - 💼 **Experience**: Generative AI Intern @ CIB Summer Program 2026.
 - 🤝 **Collaboration**: Open to working with Back-End devs who write real code.
 - 📫 **Contact**: [eyadwardany123@gmail.com](mailto:eyadwardany123@gmail.com) | 📱 +201094497558
-
-
 
 <br/>
 
