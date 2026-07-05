@@ -13,6 +13,12 @@
 </p>
 
 <br/>
+### 🛠️ Tech Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,nodejs,electron,firebase,git,github,vscode,linux&theme=dark" />
+  </a>
+</p>
 
 ### 🌌 The Architect
 - ⚡ **Focus**: Front-End -> System Design -> Cloud Services.
@@ -23,13 +29,6 @@
 - 📫 **Contact**: [eyadwardany123@gmail.com](mailto:eyadwardany123@gmail.com) | 📱 +201094497558
 
 <br/>
-
-### 🛠️ Tech Arsenal
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,nodejs,electron,firebase,git,github,vscode,linux&theme=dark" />
-  </a>
-</p>
 
 <br/>
 
