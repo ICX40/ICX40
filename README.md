@@ -23,8 +23,8 @@ Currently sharpening my skills in modern front-end architectures, API integratio
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ICX40&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICX40&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ICX40&show_icons=true&theme=tokyonight&border_radius=10&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICX40&layout=compact&theme=tokyonight&border_radius=10&v=1" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
