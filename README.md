@@ -1,44 +1,51 @@
-### 👋 I'm Eyad Kadry
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:22d3ee&height=200&section=header&text=Eyad%20Kadry&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
 
-Front-End Dev, [19] y/o. I craft clean, responsive UIs, chase bugs until they regret existing, and somehow still enjoy JavaScript (don't ask).
-Focused path: Front-End -> System Design -> Cloud Services.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Mastering+Next.js,+React+%26+GSAP;Crafting+Monster+Level+UIs;Building+Storm+Store" alt="Typing SVG" />
+  </a>
+</h1>
 
-🔥 Check out my [Portfolio](https://e-k-w.vercel.app/)
-🤝 Open to collaboration with Back-End devs who write real code.
-📧 [eyadwardant123@gmail.com] | 📱 [+201094497558]
+<p align="center">
+  <em>Crafting clean, responsive UIs, chasing bugs until they regret existing, and engineering high-performance web architectures.</em>
+</p>
 
----
+<br/>
 
-### 🧠 Tech Stack
-<p align="left">
+### 🌌 The Architect
+- ⚡ **Focus**: Front-End -> System Design -> Cloud Services.
+- 🎨 **Aesthetics**: Glassmorphism, Neon Lighting, Dark Themes, and Cinematic Animations.
+- 🚀 **Current Projects**: Engineering **Storm Store** and **Universal Launcher Switcher**.
+- 💼 **Experience**: Generative AI Intern @ CIB Summer Program 2026.
+- 🤝 **Collaboration**: Open to working with Back-End devs who write real code.
+- 📫 **Contact**: [eyadwardany123@gmail.com](mailto:eyadwardany123@gmail.com) | 📱 +201094497558
+
+<br/>
+
+### 🛠️ Tech Arsenal
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github,gcp,firebase,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,python,nodejs,electron,firebase,git,github,vscode,linux&theme=dark" />
   </a>
 </p>
 
-Currently sharpening my skills in modern front-end architectures, API integrations, and scalable app structures. Learning never stops.
+<br/>
 
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ICX40&show_icons=true&theme=radical&border_radius=10&v=2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICX40&layout=compact&theme=radical&border_radius=10&v=2" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ICX40&theme=tokyonight&border_radius=10&fire=22D3EE&ring=22D3EE" alt="GitHub Streak" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ICX40&theme=radical&border_radius=10" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ICX40&show_icons=true&theme=tokyonight&hide_border=true&title_color=22d3ee&icon_color=22d3ee&bg_color=0D1117" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICX40&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&bg_color=0D1117" alt="Langs" width="48%" />
 </p>
 
----
+<br/>
 
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ICX40/ICX40/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ICX40/ICX40/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ICX40/ICX40/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ICX40&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile Views" />
+</div>
