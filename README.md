@@ -39,11 +39,6 @@
   <img src="https://streak-stats.demolab.com/?user=ICX40&theme=tokyonight&border_radius=10&fire=22D3EE&ring=22D3EE" alt="GitHub Streak" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ICX40&show_icons=true&theme=tokyonight&hide_border=true&title_color=22d3ee&icon_color=22d3ee&bg_color=0D1117" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ICX40&layout=compact&theme=tokyonight&hide_border=true&title_color=22d3ee&bg_color=0D1117" alt="Langs" width="48%" />
-</p>
-
 <br/>
 
 <div align="center">
