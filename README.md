@@ -11,10 +11,15 @@
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **AURA, a high-end luxury clothing e-commerce platform built with Next.js &amp; GSAP.**  
+
 🌱 &nbsp;I'm currently learning **Generative AI concepts and applications.  Advanced Machine Learning models using Python and Scikit-Learn.**  
+
 🤔 &nbsp;I'm looking for help with **Optimizing data science pipelines and Streamlit deployments.**  
+
 💬 &nbsp;Ask me about **React.js, Next.js, UI animations with GSAP, and integrating Egyptian payment gateways (InstaPay/Fawry).**  
+
 😄 &nbsp;Pronouns: **he/him**  
+
 ⚡ &nbsp;Fun fact: **I built my own Universal Game Launcher Switcher using Electron.js to manage all my gaming accounts!**
 
 ### 🛠️ Tech Stack
