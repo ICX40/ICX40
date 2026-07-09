@@ -1,56 +1,68 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:666666&height=200&section=header&text=Eyad%20Kadry&fontSize=70&fontAlignY=35&animation=none&fontColor=ffffff" />
-</div>
-
-<h1 align="center">Full-Stack Web Developer</h1>
-
 <p align="center">
-  <em>Crafting clean, responsive UIs and engineering high-performance web architectures.</em>
+  <a href="https://github.com/ICX40">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Eyad%20Kadry" alt="Hello! I&#39;m Eyad Kadry" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Intern-CIB%20Summer%20Program-666666?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Egypt-666666?style=for-the-badge&logo=google-maps" />
-  <br>
-  <a href="mailto:nyadwardany123@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-666666?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/40__x/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/ICX40"><img src="https://img.shields.io/badge/GitHub-Follow-333333?style=for-the-badge&logo=github" /></a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Full-Stack%20Web%20Developer;Crafting%20clean%2C%20responsive%20UIs%20and%20engineering%20high-performance%20web%20architectures." alt="Typing headlines" />
+</p>
 
-<br/>
+### 🚀 About Me
+
+🔭 &nbsp;I'm currently working on **AURA, a high-end luxury clothing e-commerce platform built with Next.js &amp; GSAP.**  
+🌱 &nbsp;I'm currently learning **Generative AI concepts and applications.  Advanced Machine Learning models using Python and Scikit-Learn.**  
+🤔 &nbsp;I'm looking for help with **Optimizing data science pipelines and Streamlit deployments.**  
+💬 &nbsp;Ask me about **React.js, Next.js, UI animations with GSAP, and integrating Egyptian payment gateways (InstaPay/Fawry).**  
+😄 &nbsp;Pronouns: **he/him**  
+⚡ &nbsp;Fun fact: **I built my own Universal Game Launcher Switcher using Electron.js to manage all my gaming accounts!**
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+</p>
 
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+### 🔗 Connect With Me
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<p align="left">
+  <a href="https://e-k-w.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:eyadwardany123@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-**Backend & Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+### 📊 GitHub Stats
 
-**Tools & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,electron" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ICX40&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ICX40&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-</div>
+### 📈 Contribution Graph
 
-<br/>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ICX40&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ICX40&theme=transparent&border_radius=10&fire=666666&ring=666666" alt="GitHub Streak" width="60%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ICX40&label=Profile%20Views&color=666666&style=for-the-badge" alt="Profile Views" />
-</div>
+---
+<p align="center"><i>⭐️ From <a href="https://github.com/ICX40">ICX40</a></i></p>
