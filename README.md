@@ -1,30 +1,33 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=171412&height=190&section=header&text=EYAD%20KADRY&fontSize=56&fontColor=F6F4F0&fontAlign=50&fontAlignY=42&desc=FULL-STACK%20DEVELOPER&descSize=15&descAlignY=68&descColor=FF4829" width="100%" alt="Eyad Kadry | Full-Stack Developer" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:171412,100:292521&text=EYAD%20KADRY&fontColor=F6F4F0&fontSize=52&fontAlignY=48&desc=FULL-STACK%20DEVELOPER&descSize=14&descAlignY=76&descColor=FF4829" width="100%" alt="Eyad Kadry — Full-Stack Developer" />
+  <h2>Web experiences, built with clarity and care.</h2>
+  <p>Thoughtful interfaces. Smooth interactions. Reliable foundations.</p>
 
-<br />
-
-**I build thoughtful web experiences, from the first interface to the systems behind it.**
-
-[GitHub](https://github.com/ICX40) · [Email](mailto:eyadwardany123@gmail.com) · [Instagram](https://instagram.com/ek_w_1) · [Facebook](https://facebook.com/eyad.wardany.50)
-
+  <a href="https://github.com/ICX40?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-FF4829?style=for-the-badge&logo=github&logoColor=171412" alt="Explore my work" /></a>
+  &nbsp;
+  <a href="mailto:eyadwardany123@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-F6F4F0?style=for-the-badge&logo=gmail&logoColor=171412" alt="Get in touch" /></a>
 </div>
 
 ---
 
-### About
+## A little about me
 
-I’m Eyad, a full-stack developer focused on polished, responsive websites and practical web applications. I care about clear interfaces, smooth motion, and code that stays maintainable as a project grows.
+I’m Eyad Kadry, a full-stack developer building responsive websites and web applications. I enjoy bringing a clear visual idea to life, then making sure the experience feels just as considered on smaller screens and under the hood.
 
-### Selected work
+I work across frontend and backend, with a focus on TypeScript, React, and Next.js. I also use GSAP to add motion that supports the experience instead of distracting from it.
 
-| Project | Focus |
+## Selected work
+
+| Project | What I worked on |
 |:--|:--|
-| **AURA** | E-commerce experience |
-| **Drink Canva** | Web development |
-| **LGPSM** | Web development |
+| **AURA** | Fashion e-commerce experience |
+| **Drink Canva** | Web development project |
+| **LGPSM** | Web development project |
 
-### Toolkit
+[Browse my repositories →](https://github.com/ICX40?tab=repositories)
+
+## Tools I use
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-171412?style=flat-square&logo=typescript&logoColor=F6F4F0" alt="TypeScript" />
@@ -40,15 +43,15 @@ I’m Eyad, a full-stack developer focused on polished, responsive websites and 
   <img src="https://img.shields.io/badge/GitHub-171412?style=flat-square&logo=github&logoColor=F6F4F0" alt="GitHub" />
 </p>
 
-### Find me
+## Connect
 
-- **GitHub:** [@ICX40](https://github.com/ICX40)
-- **Instagram:** [@ek_w_1](https://instagram.com/ek_w_1)
-- **TikTok:** [@e.k.w.11](https://tiktok.com/@e.k.w.11)
-- **Email:** [eyadwardany123@gmail.com](mailto:eyadwardany123@gmail.com)
+<p>
+  <a href="mailto:eyadwardany123@gmail.com">Email</a> ·
+  <a href="https://instagram.com/ek_w_1">Instagram</a> ·
+  <a href="https://tiktok.com/@e.k.w.11">TikTok</a> ·
+  <a href="https://facebook.com/eyad.wardany.50">Facebook</a>
+</p>
 
 <div align="center">
-
-<sub>Designed with care · Open to interesting projects</sub>
-
+  <sub>Thanks for stopping by.</sub>
 </div>
